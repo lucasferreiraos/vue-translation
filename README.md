@@ -1,4 +1,6 @@
-# frontend
+# Vue translation
+
+Respotório com um pequeno projeto simples para estudar internacionalização usando Vue.js
 
 ## Project setup
 ```
